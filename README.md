@@ -1,7 +1,7 @@
-# DHT11 Sensor
-
+# IoT-arduino-DHT11 Sensor
+  Here the arduino that reads data from sensors* (temperature and humidity in this case) and displays it on the serial monitor.
  # Description
-      Here we are working with the dht11 sensor based on the arduino uno to check the temperature and humidity in the room.
+  <em>Here we are working with the dht11 sensor based on the arduino uno to check the temperature and humidity in the room</em>. 
       
  # Components
     Arduino Uno. 
