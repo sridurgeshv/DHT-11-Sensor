@@ -1,15 +1,15 @@
 # IoT-arduino-DHT11 Sensor
-  Here the arduino that reads data from sensors* (temperature and humidity in this case) and displays it on the serial monitor.
+  This repository features an Arduino setup capable of collecting data from sensors, specifically focusing on temperature and humidity readings displayed via the serial monitor.
  # Description
-  <em>Here we are working with the dht11 sensor based on the arduino uno to check the temperature and humidity in the room</em>. 
+  <em>Here, we've designed a system utilizing the DHT11 sensor alongside an Arduino Uno to effectively monitor the temperature and humidity within a given space.</em>. 
       
  # Components
-    Arduino Uno. 
-    Temperature Sensor [TMP 36].
-    Potentiometer.
-    Bread Board.
+   <li> Arduino Uno. </li>
+   <li> Temperature Sensor [TMP 36].</li>
+    <li> Potentiometer.</li>
+    <li> Bread Board. </li>
    
  # Documentation
-   The DHT 11 is a commonly used Temperature and Humidity sensor for prototypes monitoring the ambient temperature and humidity of a given area.
-   
-  The sensors can measure temperature from 0 to 50 degree C with an accuracy at (+ or -)2 degree C and humidity from 20% to 90% with an accuracy at (+ or -)5% RH relative humidity.
+   The DHT11 serves as a widely employed temperature and humidity sensor, particularly beneficial for prototypes aimed at monitoring ambient temperature and humidity levels within an area.
+
+These sensors have the capability to measure temperatures ranging from 0 to 50 degrees Celsius, with an accuracy of (+ or -) 2 degrees Celsius. Additionally, they can measure humidity levels from 20% to 90% with an accuracy of (+ or -) 5% relative humidity (RH).
